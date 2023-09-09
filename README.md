@@ -1,7 +1,7 @@
 1. ### Lens K8s app [Add a cluster](https://docs.k8slens.dev/getting-started/add-cluster/):
     1. To add a cluster manually:
-       1. ```minikube start``
-       2. ```minikube ip``
+       1. ```minikube start```
+       2. ```minikube ip```
     2. To see your current cluster configuration:
        1. ```kubectl config view --minify --raw```
 
